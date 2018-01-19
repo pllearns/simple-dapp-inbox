@@ -17,6 +17,8 @@ npm install
 
 * [Web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API
 * [Solidity](https://github.com/ethereum/solidity) - Language for Ethereum Smart Contracts
+* [Infura](https://github.com/ethereum/solidity) - Ethereum Client Provider
+* [Rinkeby](https://www.rinkeby.io/#stats) - Ethereum Test Network
 * [MetaMask](https://metamask.io/) - Chrome extension for access to Ethereum and TestRPCs 
 * [Solidity for VSCode](https://github.com/juanfranblanco/vscode-solidity) - VSCode add on for syntax highlighting and in editor compiling.  
 
