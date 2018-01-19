@@ -12,5 +12,8 @@
     "blockchain"
   ],
   "author": "Phillip Lorenzo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.19"
+  }
 }

@@ -1,0 +1,36 @@
+# Simple Dapp Inbox
+
+> A simple dapp with testing that demonstrates how you can avoid a framework to deploy a solidity contract via JavaScript.
+
+## Getting Started
+
+##### There are instructions to build this app for production, but keep in mind that we wont be pushing this component to production during our walkthrough.
+
+``` bash
+# install dependencies
+npm install
+
+```
+
+
+## Built With
+
+* [Web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API
+* [Solidity](https://github.com/ethereum/solidity) - Language for Ethereum Smart Contracts
+* [MetaMask](https://metamask.io/) - Chrome extension for access to Ethereum and TestRPCs 
+* [Solidity for VSCode](https://github.com/juanfranblanco/vscode-solidity) - VSCode add on for syntax highlighting and in editor compiling.  
+
+## Authors
+
+* **Phillip Lorenzo** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Oakland Blockchain Developers
+* Brandon Gilchrist
+* Rachel Ralston
+* Stephen Grider
