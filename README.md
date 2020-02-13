@@ -2,6 +2,9 @@
 
 > A simple dapp with testing that demonstrates how you can avoid a framework to deploy a solidity contract via JavaScript.
 
+![](https://github.com/pllearns/simple-dapp-inbox/workflows/CI/badge.svg?branch=develop) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b93f768a78344304ab3142c81c0f3398)](https://www.codacy.com/manual/pllearns/simple-dapp-inbox?utm_source=github.com&utm_medium=referral&utm_content=pllearns/simple-dapp-inbox&utm_campaign=Badge_Grade) [![BCH compliance](https://bettercodehub.com/edge/badge/pllearns/simple-dapp-inbox?branch=master)](https://bettercodehub.com/)
+
+
 *NOTE* This project was not in development for some time. There are some planned updates, including:
 
 - increased testing
