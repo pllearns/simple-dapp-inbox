@@ -16,5 +16,3 @@ jobs:
           node-version: '10.x'
       - name: install
         run: npm install
-      - name: test
-        run: npm run test
