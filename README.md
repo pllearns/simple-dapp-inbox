@@ -2,6 +2,12 @@
 
 > A simple dapp with testing that demonstrates how you can avoid a framework to deploy a solidity contract via JavaScript.
 
+*NOTE* This project was not in development for some time. There are some planned updates, including:
+
+- increased testing
+- addition of CI
+- updated dependencies for security
+
 ## Getting Started
 
 ##### There are instructions to build this app for production, but keep in mind that we wont be pushing this component to production during our walkthrough.
